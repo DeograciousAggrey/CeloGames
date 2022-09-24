@@ -1,5 +1,5 @@
 {
-  "selectedChain": "80001",
+  "selectedChain": "44787",
   "1337": {
     "chainId": "1337",
     "chainName": "Localhost 8545",
@@ -18,6 +18,16 @@
     },
     "blockExplorerUrls": ["https://mumbai.polygonscan.com/"]
   },
+  "44787": {
+    "chainId": "44787",
+    "chainName": "Celo (Alfajores Testnet)",
+    "rpcUrls": ["https://alfajores-forno.celo-testnet.org/"],
+    "nativeCurrency": {
+      "symbol": "CELO"
+    },
+    "blockExplorerUrls": ["https://mumbai.polygonscan.com/"]
+  },
+  
   "1666700000": {
     "chainId": "1666700000",
     "chainName": "Harmony Testnet Shard 0",
