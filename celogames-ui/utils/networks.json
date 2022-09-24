@@ -25,7 +25,7 @@
     "nativeCurrency": {
       "symbol": "CELO"
     },
-    "blockExplorerUrls": ["https://mumbai.polygonscan.com/"]
+    "blockExplorerUrls": ["https://alfajores-blockscout.celo-testnet.org/"]
   },
   
   "1666700000": {
