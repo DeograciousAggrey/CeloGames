@@ -1,5 +1,5 @@
 {
-  "selectedChain": "44787",
+  "selectedChain": "80001",
   "1337": {
     "chainId": "1337",
     "chainName": "Localhost 8545",
@@ -23,6 +23,7 @@
     "chainId": "44787",
     "chainName": "Celo (Alfajores Testnet)",
     "rpcUrls": ["https://alfajores-forno.celo-testnet.org/"],
+    "path": "m/44'/52752'/0'/0",
     "nativeCurrency": {
       "symbol": "CELO"
     },
