@@ -18,7 +18,7 @@ export default function Layout({ children }) {
       <Head>
         <link rel="icon" href="/favicon.ico" />
         <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
-        <title>zkArcade</title>
+        <title>CeloGames</title>
         <meta name="title" content="zkGames" />
         <meta name="description" content="Zero Knowledge Games Platform" />
         <meta name="theme-color" content="#ea580c" />
