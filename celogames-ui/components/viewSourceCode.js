@@ -1,4 +1,4 @@
-const GITHUB_LINK = "https://github.com/DeograciousAggrey/zkArcade";
+const GITHUB_LINK = "https://github.com/DeograciousAggrey/CeloGames";
 
 export default function ViewSourceCode() {
   return (
