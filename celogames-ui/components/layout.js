@@ -19,32 +19,32 @@ export default function Layout({ children }) {
         <link rel="icon" href="/favicon.ico" />
         <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
         <title>zkArcade</title>
-        <meta name="title" content="CeloGames" />
+        <meta name="title" content="zkGames" />
         <meta name="description" content="Zero Knowledge Games Platform" />
         <meta name="theme-color" content="#ea580c" />
 
         {/* Twitter */}
         <meta property="twitter:card" content="summary_large_image" />
         <meta property="twitter:url" content="#" />
-        <meta property="twitter:title" content="CeloGames" />
+        <meta property="twitter:title" content="zkGames" />
         <meta
           property="twitter:description"
           content="Zero Knowledge Games Platform"
         />
         <meta
           property="twitter:image"
-          content="https://CeloGames.one/socialMedia.png"
+          content="https://zkgames.one/socialMedia.png"
         />
 
         {/* Open Graph */}
         <meta property="og:type" content="website" key="ogtype" />
-        <meta property="og:url" content="https://CeloGames.one/" key="ogurl" />
+        <meta property="og:url" content="https://zkgames.one/" key="ogurl" />
         <meta
           property="og:image"
-          content="https://CeloGames.one/socialMedia.png"
+          content="https://zkgames.one/socialMedia.png"
           key="ogimage"
         />
-        <meta property="og:title" content="CeloGames" key="ogtitle" />
+        <meta property="og:title" content="zkGames" key="ogtitle" />
         <meta
           property="og:description"
           content="Zero Knowledge Games Platform"
