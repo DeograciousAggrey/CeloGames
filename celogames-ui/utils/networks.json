@@ -23,7 +23,6 @@
     "chainId": "44787",
     "chainName": "Celo (Alfajores Testnet)",
     "rpcUrls": ["https://alfajores-forno.celo-testnet.org/"],
-    "path": "m/44'/52752'/0'/0",
     "nativeCurrency": {
       "symbol": "CELO"
     },
