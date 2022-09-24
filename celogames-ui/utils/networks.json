@@ -27,16 +27,6 @@
     },
     "blockExplorerUrls": ["https://alfajores-blockscout.celo-testnet.org/"]
   },
-  
-  "1666700000": {
-    "chainId": "1666700000",
-    "chainName": "Harmony Testnet Shard 0",
-    "rpcUrls": ["https://api.s0.b.hmny.io"],
-    "nativeCurrency": {
-      "symbol": "ONE"
-    },
-    "blockExplorerUrls": ["https://explorer.pops.one/"]
-  },
   "1666600000": {
     "chainId": "1666600000",
     "chainName": "Harmony Mainnet Shard 0",
