@@ -13,6 +13,7 @@
     "chainId": "80001",
     "chainName": "Polygon Testnet Mumbai",
     "rpcUrls": ["https://rpc-mumbai.maticvigil.com/"],
+    
     "nativeCurrency": {
       "symbol": "MATIC"
     },
@@ -22,6 +23,7 @@
     "chainId": "44787",
     "chainName": "Celo (Alfajores Testnet)",
     "rpcUrls": ["https://alfajores-forno.celo-testnet.org/"],
+    "path": "m/44'/52752'/0'/0",
     "nativeCurrency": {
       "symbol": "CELO"
     },
