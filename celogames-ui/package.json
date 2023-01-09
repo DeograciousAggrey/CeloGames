@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@celo/rainbowkit-celo": "^0.4.0",
     "ethers": "^5.6.2",
     "next": "12.1.4",
     "next-plausible": "^3.2.0",
