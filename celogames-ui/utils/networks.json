@@ -1,5 +1,5 @@
 {
-  "selectedChain": "80001",
+  "selectedChain": "44787",
   "1337": {
     "chainId": "1337",
     "chainName": "Localhost 8545",
@@ -13,7 +13,6 @@
     "chainId": "80001",
     "chainName": "Polygon Testnet Mumbai",
     "rpcUrls": ["https://rpc-mumbai.maticvigil.com/"],
-    
     "nativeCurrency": {
       "symbol": "MATIC"
     },
@@ -27,5 +26,14 @@
       "symbol": "ONE"
     },
     "blockExplorerUrls": ["https://explorer.harmony.one/"]
+  },
+  "44787": {
+    "chainId": "44787",
+    "chainName": "Celo Testnet",
+    "rpcUrls": ["https://alfajores-forno.celo-testnet.org"],
+    "nativeCurrency": {
+      "symbol": "cGLD"
+    },
+    "blockExplorerUrls": ["https://explorer.celo-testnet.org/"]
   }
 }
