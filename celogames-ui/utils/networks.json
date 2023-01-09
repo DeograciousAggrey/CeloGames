@@ -1,5 +1,5 @@
 {
-  "selectedChain": "44787",
+  "selectedChain": "80001",
   "1337": {
     "chainId": "1337",
     "chainName": "Localhost 8545",
@@ -18,16 +18,6 @@
       "symbol": "MATIC"
     },
     "blockExplorerUrls": ["https://mumbai.polygonscan.com/"]
-  },
-  "44787": {
-    "chainId": "44787",
-    "chainName": "Celo (Alfajores Testnet)",
-    "rpcUrls": ["https://alfajores-forno.celo-testnet.org/"],
-    "path": "m/44'/52752'/0'/0",
-    "nativeCurrency": {
-      "symbol": "CELO"
-    },
-    "blockExplorerUrls": ["https://alfajores-blockscout.celo-testnet.org/"]
   },
   "1666600000": {
     "chainId": "1666600000",
