@@ -3,11 +3,6 @@ import React, { useEffect, useState } from "react";
 import NumbersKeyboard from "../components/sudoku/numbersKeyboard";
 import Head from "next/head";
 import GoBack from "../components/goBack";
-
-import { useContractKit } from "@celo-tools/use-contractkit";
-import { ContractKitProvider } from "@celo-tools/use-contractkit";
-import "@celo-tools/use-contractkit/lib/styles.css";
-
 import styles from "../styles/Sudoku.module.css";
 import {
   useAccount,
